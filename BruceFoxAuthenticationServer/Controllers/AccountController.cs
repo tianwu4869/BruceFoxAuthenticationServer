@@ -337,7 +337,7 @@ namespace BruceFoxAuthenticationServer.Controllers
                 return GetErrorResult(result);
             }
 
-            return Ok();
+            return Ok(model);
         }
 
         // POST api/Account/RegisterExternal
