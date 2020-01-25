@@ -126,3 +126,14 @@ F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\o
 F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\obj\Debug\BruceFoxAuthenticationServer.dll
 F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\obj\Debug\BruceFoxAuthenticationServer.pdb
 F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\obj\Debug\BruceFoxAuthenticationServer.csprojAssemblyReference.cache
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\Microsoft.IdentityModel.Logging.dll
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\Microsoft.IdentityModel.Tokens.dll
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\Microsoft.IdentityModel.Logging.xml
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\Microsoft.IdentityModel.Tokens.xml
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\Microsoft.Owin.Cors.dll
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\System.Web.Cors.dll
+F:\Courseware\Itlize\BruceFoxAuthenticationServer\BruceFoxAuthenticationServer\bin\Microsoft.Owin.Cors.xml

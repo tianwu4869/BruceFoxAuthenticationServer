@@ -46,6 +46,7 @@ namespace BruceFoxAuthenticationServer
             };
 
             // Enable the application to use bearer tokens to authenticate users
+            app.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);
             app.UseOAuthAuthorizationServer(OAuthOptions);
 
             // Uncomment the following lines to enable logging in with third party login providers
